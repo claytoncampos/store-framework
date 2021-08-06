@@ -1,7 +1,10 @@
 {
-  "store.home": { 
-    "blocks": [
-      
-    ]
+  "store.home": {
+    "blocks": ["rich-text"]
+  },
+  "rich-text": {
+    "props": {
+      "text": "# HIRING CODERS 2021"
+    }
   }
 }
